@@ -6,7 +6,7 @@
   "scripts": {
     "dev:frontend": "cd frontend && npm run dev",
     "dev:backend": "python -m uvicorn api.index:app --reload --port 8000",
-    "build": "cd frontend && npm install && npm run build",
+    "build": "npm --prefix frontend run build",
     "start:streamlit": "python -m streamlit run app.py"
   }
 }
