@@ -1,0 +1,5 @@
+Cluster_Archetype_ID,Cluster_Name,Destination_Count,Avg_Total_Visits,Median_Total_Visits,Avg_Foreign_Share,Avg_Domestic_Share,Avg_Annual_Temp,Avg_Annual_Rainfall,Avg_Domestic_Growth,UNESCO_Sites_Count
+0,Tier-1 Iconic Global Mega-Hubs,13,994656.69,379820.0,23.22,76.78,24.9,1072.72,-63.3,6
+1,Domestic Cultural Heritage Powerhouses,6,42139.67,36140.5,2.28,97.72,9.28,1361.53,-37.16,0
+2,High-Precipitation & Monsoon-Sensitive Enclaves,124,267578.43,120102.0,1.65,98.35,25.91,1488.6,-49.78,12
+3,Emerging & Niche Archaeological Sites,1,536.0,536.0,1.12,98.88,24.3,625.3,4233.77,0

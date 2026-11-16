@@ -1,0 +1,13 @@
+Feature,Standardized_Coefficient,Absolute_Impact,Direction
+Type_Fort & Palace,0.676,0.676,Positive (+)
+Is_UNESCO_Site,0.6437,0.6437,Positive (+)
+Type_Heritage & Memorial,0.3785,0.3785,Positive (+)
+Monsoon_Rainfall_mm,0.3583,0.3583,Positive (+)
+Temp_Ideal_Deviation,-0.3021,0.3021,Negative (-)
+Annual_Total_Rainfall_mm,-0.2835,0.2835,Negative (-)
+Type_Temple & Religious,0.2523,0.2523,Positive (+)
+Type_Mausoleum & Tomb,0.147,0.147,Positive (+)
+Type_Caves & Rock-Cut,0.0913,0.0913,Positive (+)
+Foreign_Tourist_Share,0.0842,0.0842,Positive (+)
+Domestic_Tourist_Share,-0.0842,0.0842,Negative (-)
+Annual_Avg_Temp_C,0.0516,0.0516,Positive (+)

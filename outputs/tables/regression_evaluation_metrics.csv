@@ -1,0 +1,2 @@
+mae_log,rmse_log,r2_log,mae_actual,rmse_actual,r2_actual,cv_r2_mean,cv_r2_std,cv_mae_mean,n_train,n_test,intercept
+1.3432,1.7831,0.1061,295258.44,503844.2,-0.0117,0.0898,0.0891,1.2037,115,29,11.6162
