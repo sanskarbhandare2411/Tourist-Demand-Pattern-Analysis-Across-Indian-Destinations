@@ -173,7 +173,7 @@ The application provides a 9-page dashboard:
 ### Installation
 ```bash
 # 1. Clone repository and navigate to workspace
-cd "d:/Course project DT"
+cd "d:/Course project DS"
 
 # 2. Install dependencies
 python -m pip install -r requirements.txt
